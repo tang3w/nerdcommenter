@@ -388,6 +388,7 @@ let s:delimiterMap = {
     \ 'verilog_systemverilog': { 'left': '//', 'leftAlt': '/*', 'rightAlt': '*/' },
     \ 'vgrindefs': { 'left': '#' },
     \ 'vhdl': { 'left': '--' },
+    \ 'vim': { 'left': '"' },
     \ 'vimperator': { 'left': '"' },
     \ 'virata': { 'left': '%' },
     \ 'vrml': { 'left': '#' },
